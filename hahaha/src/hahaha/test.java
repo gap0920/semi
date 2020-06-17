@@ -2,6 +2,6 @@ package hahaha;
 
 public class test {
 
-	String jimin="테스트 중";
+	//		지긋지긋합니다,,,
 	
 }
