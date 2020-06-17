@@ -1,5 +1,7 @@
 package hahaha;
 
 public class test {
-	ㅁㄴㅇㄹ
+
+	String jimin="테스트 중";
+	
 }
